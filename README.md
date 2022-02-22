@@ -6,3 +6,4 @@
 | [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#)      | 14-02-22       | D L HashSet |
 | [Rotate an array clockwise by one element](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1#)      | 14-02-22       | D L N rotations(Clockwise and Anti-clockwise) |
 | [Largest Sum contiguous subarray (Kadane's)](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)      | 16-02-22       | D  |
+| [Diamond Pattern 5](https://nados.io/question/pattern-5)      | 22-02-22       | D  |
