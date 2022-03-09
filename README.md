@@ -9,3 +9,4 @@
 | [Diamond Pattern 5](https://nados.io/question/pattern-5)      | 22-02-22       | D  |
 | [Diamond Pattern 6](https://nados.io/question/pattern-6?zen=true)      | 22-02-22       | D  |
 | [Span pf Array](https://nados.io/question/span-of-array)      | 09-03-22       | D  |
+| [Bar Chart](https://nados.io/question/bar-chart?zen=true)      | 09-03-22       | D  |
