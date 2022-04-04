@@ -12,3 +12,4 @@
 | [Bar Chart](https://nados.io/question/bar-chart?zen=true)      | 09-03-22       | D  |
 | [Subarray Using Loop](https://nados.io/question/subarray-problem?zen=true)      | 03-04-22       | D  |
 | [Subarray Using Loop](https://nados.io/question/matrix-multiplication?zen=true) - [Sol](https://github.com/satanpr/DSA45/blob/main/MatrixMultiplication.java)      | 04-04-22       | D  |
+| [Subarray Using Loop](https://nados.io/question/the-state-of-wakanda-1?zen=true) - [Sol](https://github.com/satanpr/DSA45/blob/main/StateOfWakanda-1.java)      | 04-04-22       | D  |
