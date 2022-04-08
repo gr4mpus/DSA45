@@ -13,3 +13,4 @@
 | [Subarray Using Loop](https://nados.io/question/subarray-problem?zen=true)      | 03-04-22       | D  |
 | [Subarray Using Loop](https://nados.io/question/matrix-multiplication?zen=true) - [Sol](https://github.com/satanpr/DSA45/blob/main/MatrixMultiplication.java)      | 04-04-22       | D  |
 | [State of Wakanda-1](https://nados.io/question/the-state-of-wakanda-1?zen=true) - [Sol](https://github.com/satanpr/DSA45/blob/main/StateOfWakanda-1.java)      | 04-04-22       | D  |
+| [Rotate Matrix By 90 Degree](https://nados.io/question/rotate-by-90-degree) - [Sol](https://github.com/satanpr/DSA45/blob/main/RotateMatrix90Deg.java)      | 08-04-22       | D  |
